@@ -1,6 +1,6 @@
 <h1> how to install PyCharm on ubuntu 18.04
  
-<h2> Install using tar archivess </h2>
+<h2> Install using tar archives </h2>
 
 1. Go to PyCharm Download page and download the tar.gz files
 
